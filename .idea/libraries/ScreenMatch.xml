@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ScreenMatch">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ScreenMatch.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

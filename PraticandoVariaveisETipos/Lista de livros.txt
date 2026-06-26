@@ -1,0 +1,22 @@
+[{
+Título: Teste
+Autor: Teste
+Páginas: 70
+Preço: R$80.0
+Categoria: Ficção
+}
+, {
+Título: Teste2
+Autor: Receba
+Páginas: 800000000
+Preço: R$6.09090909099E12
+Categoria: Tecnologia
+}
+, {
+Título: Opa apertei erradokk
+Autor: Eu msm
+Páginas: 1
+Preço: R$0.99
+Categoria: História
+}
+]
