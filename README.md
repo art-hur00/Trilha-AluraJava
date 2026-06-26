@@ -1,0 +1,1 @@
+Repositório dedicado ao meu aprendizado e evolução na trilha Java da Alura. Contém códigos práticos, resoluções de desafios e projetos desenvolvidos para consolidar conceitos fundamentais, Orientação a Objetos, boas práticas e manipulação de dados. Techs: Java, OOP, Git.
